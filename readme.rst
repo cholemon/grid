@@ -1,3 +1,2 @@
-# GRID - CodeIgniter
-### - Levi A. Hurtado -
+# GRID - CodeIgniter - Levi A. Hurtado -
 
